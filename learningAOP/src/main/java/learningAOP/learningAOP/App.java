@@ -13,7 +13,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	//XMLをロード
+    	//XMLをロードaaa
     	ApplicationContext applicationContext = new ClassPathXmlApplicationContext("IoCbeans.xml");
     	//BeanのIDを使ってインスタンスを取得
     	//Book book = (Book) applicationContext.getBean("book");
