@@ -1,5 +1,5 @@
 package learningAOP.learningAOP.bean;
-123
+
 public class Author {
 	private String ID;
 	public String getID() {
